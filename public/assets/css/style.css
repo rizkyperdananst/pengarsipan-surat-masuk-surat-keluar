@@ -1,0 +1,5 @@
+.bg-login-image {
+    background-image: url(../img/kantorcamat.jpg);
+    background-size: cover;
+    background-position: center;
+}
